@@ -9,3 +9,7 @@ body{
     color: darkblue;
     font-size: 30px;
 }
+.message {
+    font-size: 15px;
+    color: paleturquoise;
+}
